@@ -5,7 +5,7 @@ import java.util.*;
  * Problema 106 ACR Codigo de barras
  */
 
-public class p106 {
+public class p106 hola {
 
     public static String identificarPais(String codigo) {
         if      (codigo.equals("380")) return "Bulgaria";
