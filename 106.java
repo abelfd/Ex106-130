@@ -7,7 +7,7 @@ import java.util.*;
 
 public class p106 hola {
 
-    public static String identificarPais(String codigo) {
+    public static String identificarPais(String codigo)   {
         if      (codigo.equals("380")) return "Bulgaria";
         else if (codigo.equals("539")) return "Irlanda";
         else if (codigo.equals("560")) return "Portugal";
